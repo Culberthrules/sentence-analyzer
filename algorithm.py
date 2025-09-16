@@ -1,3 +1,10 @@
+# Sentence Analyzer
+# This program reads a sentence ending with a period and calculates:
+# - Total number of characters
+# - Number of words (separated by single spaces)
+# - Number of vowels
+# Author: Culberth 🇳🇬
+
 #Initialize counters
 char_count=0
 word_count=0
